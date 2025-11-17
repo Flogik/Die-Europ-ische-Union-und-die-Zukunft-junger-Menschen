@@ -2,7 +2,8 @@
 Projekt von der Wissenschafts Woche
 
 Quellen:
-[1] https://commission.europa.eu/topics/youth_en[2] [3] https://webgate.ec.europa.eu/eacdashboard/sense/app/c553d9e9-c805-4f7a-90e4-103bd1658077/sheet/4befabf9-d9bb-455f-969b-00dda5fa65ad/state/analysis
+[1] https://commission.europa.eu/topics/youth_en
+[3] https://webgate.ec.europa.eu/eacdashboard/sense/app/c553d9e9-c805-4f7a-90e4-103bd1658077/sheet/4befabf9-d9bb-455f-969b-00dda5fa65ad/state/analysis
 [4] https://erasmus-plus.ec.europa.eu/about-erasmus/what-is-erasmus
 [5] https://www.bmas.de/DE/Europa-und-die-Welt/Europa/Beschaeftigungs-und-Sozialpolitik-in-der-EU/Jugendgarantie/jugendgarantie.html
 [6] https://youth.europa.eu/discovereu_en
