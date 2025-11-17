@@ -1,4 +1,4 @@
-# Die-Europ-ische-Union-und-die-Zukunft-junger-Menschen
+# Die Europäische Union und die Zukunft junger Menschen
 Projekt von der Wissenschafts Woche
 
 Quellen:<br/>
